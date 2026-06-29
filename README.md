@@ -4,6 +4,9 @@
 
 Dziękuję Ci bardzo za zakup mojego produktu. Cieszę się, że trafił w Twoje ręce, dokładam wszelkich starań, aby każda sztuka była jak najlepszej jakości, dlatego od początku zaprojektowałem ją z myślą o rozwoju.
 
+Instrukcja obsługi znajduję się pod tym linkiem.
+[Instrukcja obsługi](https://github.com/martinrybka2000/RGB_Litophane/blob/master/Instrukcja_V1.pdf)
+
 ### Nadchodzi wersja V2
 Obecnie pracuję nad **nową wersją oprogramowania (Firmware V2)**. Twoja lampka posiada funkcję bezpiecznej aktualizacji, co oznacza, że gdy tylko ukończę prace, będziesz mógł/mogła wgrać nowe funkcje bez konieczności odsyłania urządzenia.
 
