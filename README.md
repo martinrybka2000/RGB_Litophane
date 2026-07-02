@@ -7,6 +7,8 @@ Dziękuję Ci bardzo za zakup mojego produktu. Cieszę się, że trafił w Twoje
 Instrukcja obsługi znajduję się pod tym linkiem.
 [Instrukcja obsługi](https://github.com/martinrybka2000/RGB_Litophane/blob/master/Instrukcja_V1.pdf)
 
+Przykładowe grafiki które dobrze nadają się do graweru znajdziesz w folderze [Przykładowe grafiki](https://github.com/martinrybka2000/RGB_Litophane/tree/master/Przyk%C5%82adowe%20grafiki), najlepiej nadają się zdjęcia o wysokim konstraście kolorów oraz bez tła.
+
 ### Nadchodzi wersja V2
 Obecnie pracuję nad **nową wersją oprogramowania (Firmware V2)**. Twoja lampka posiada funkcję bezpiecznej aktualizacji, co oznacza, że gdy tylko ukończę prace, będziesz mógł/mogła wgrać nowe funkcje bez konieczności odsyłania urządzenia.
 
