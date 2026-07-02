@@ -1,5 +1,8 @@
 # RGB_Litophane
 
+[🇵🇱 Wersja Polska](README.pl.md) | [🇬🇧 English Version](README.md)
+---
+
 # Witaj w przyszłości Twojej lampki!
 
 Dziękuję Ci bardzo za zakup mojego produktu. Cieszę się, że trafił w Twoje ręce, dokładam wszelkich starań, aby każda sztuka była jak najlepszej jakości, dlatego od początku zaprojektowałem ją z myślą o rozwoju.
