@@ -8,7 +8,7 @@
 Thank you very much for purchasing my product. I am thrilled it found its way into your hands. I make every effort to ensure each unit is of the highest quality, which is why I designed it from the ground up with future development in mind.
 
 You can find the user manual at this link:
-[User Manual](https://github.com/martinrybka2000/RGB_Litophane/blob/master/Instrukcja_V1.pdf)
+[User Manual](https://github.com/martinrybka2000/RGB_Litophane/blob/master/User_manual.pdf)
 
 Sample graphics that work great for engraving can be found in the [Sample graphics folder](https://github.com/martinrybka2000/RGB_Litophane/tree/master/Przyk%C5%82adowe%20grafiki). The best results are achieved with high-contrast images without a background.
 
