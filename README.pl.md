@@ -1,7 +1,7 @@
-# RGB_Litophane
-
 [🇵🇱 Wersja Polska](README.pl.md) | [🇬🇧 English Version](README.md)
 ---
+
+# RGB_Litophane
 
 # Witaj w przyszłości Twojej lampki!
 
